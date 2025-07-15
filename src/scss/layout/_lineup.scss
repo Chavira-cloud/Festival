@@ -47,13 +47,13 @@
 .bg-amarillo{
     background-color: v.$amarillo;
     li:nth-child(odd){
-        background-color: lighten(v.$amarillo, 5%);
+        background-color: lighten(v.$amarillo, 5);
     }
 }
 
 .bg-verde{
     background-color: v.$verde;
     li:nth-child(odd){
-        background-color: lighten(v.$verde, 5%);
+        background-color: lighten(v.$verde, 5);
     }
 }
